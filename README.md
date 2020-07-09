@@ -4,4 +4,4 @@ In short, I live in the Philadelphia/NYC area and make [video games](https://ste
 
 I mainly work with C#, Go, MySQL, JavaScript, and CSS; but I also have experience with Python, PHP, Java, Lua, Delphi/Free Pascal, WordPress development, Linux system administration, React, and Vue.
 
-My web site and portfolio are available at https://alexandra.is/. If you need to reach me, please send an email to im at alexandra dot moe.
+I am available for hire. My web site and portfolio are available at https://alexandra.is/. If you need to reach me, please send an email to im at alexandra dot moe.
