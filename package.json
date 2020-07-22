@@ -1,0 +1,22 @@
+{
+  "name": "priv-readme",
+  "version": "0.1.0",
+  "description": "readme updater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antigravities/antigravities.git"
+  },
+  "author": "Alexandra Frock <im@alexandra.moe>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/antigravities/antigravities/issues"
+  },
+  "homepage": "https://github.com/antigravities/antigravities#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

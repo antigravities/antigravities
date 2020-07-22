@@ -1,0 +1,48 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+    - master
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-readme:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v2.1.1
+      with:
+        # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
+        node-version: 12.x
+        # Set this option if you want the action to check for the latest available version that satisfies the version spec
+        check-latest: true
+    
+    - name: Download npm dependencies
+      run: npm install
+    
+    - name: Update README
+      env:
+        STEAM: ${{ secrets.STEAM }}
+        STEAMID64: "76561198043532513"
+      run: ./index.js
+    
+    - name: Commit changes?
+      run: |
+        git config --global user.email "developers@cutie.cafe"
+        git config --global user.name "README Updater"
+        git add .
+        git commit -am "Updated README"
+    
+    - name: Push changes?
+      run: git push
+
