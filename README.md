@@ -1,12 +1,10 @@
 <p align="center">
-<h1>Alexandra Frock</h1>
-</p>
-
 Hi, I'm Alexandra! I live in the Philadelphia/NYC area and make video games at Anarkis Gaming and Web sites (full-stackish) at Cutie Café. 
 
 I mainly work with C#, Go, MySQL, JavaScript, and CSS; but I also have experience with Python, PHP, Java, Lua, Delphi/Free Pascal, WordPress development, Linux system administration, React, and Vue.
 
 I am available for hire! See my portfolio below. If you'd like to get in touch, please email im at alexandra dot moe.
+</p>
 
 <details>
 <summary>Portfolio</summary>
@@ -45,7 +43,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1157970/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1157970)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/379390/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/379390)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1019450/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1019450)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
 |-|-|-|
-|<p align="center">[Special K](https://store.steampowered.com/app/1157970)</p>|<p align="center">[Spacewar](https://store.steampowered.com/app/480)</p>|<p align="center">[Superstar Dance Club](https://store.steampowered.com/app/379390)</p>|
+|<p align="center">[Table Manners](https://store.steampowered.com/app/1019450)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
 </details>
