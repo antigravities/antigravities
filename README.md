@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1148590/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1148590)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/239720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/239720)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1148590/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1148590)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1157970/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1157970)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1263820/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1263820)|
 |-|-|-|
-|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[DOOM 64](https://store.steampowered.com/app/1148590)</p>|<p align="center">[PAC-MAN™ and the Ghostly Adventures](https://store.steampowered.com/app/239720)</p>|
+|<p align="center">[DOOM 64](https://store.steampowered.com/app/1148590)</p>|<p align="center">[Special K](https://store.steampowered.com/app/1157970)</p>|<p align="center">[Sokpop S07: sok-worlds](https://store.steampowered.com/app/1263820)</p>|
 </details>
