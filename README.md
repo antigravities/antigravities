@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/900090/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/900090)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/480)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
 |-|-|-|
-|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Beach Volleyball Detectives Part 1](https://store.steampowered.com/app/900090)</p>|<p align="center">[Spacewar](https://store.steampowered.com/app/480)</p>|
+|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
 </details>
