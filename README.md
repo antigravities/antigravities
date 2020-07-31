@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/630610/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/630610)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1072710/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1072710)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/613730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/613730)|
 |-|-|-|
-|<p align="center">[Disneyland Adventures](https://store.steampowered.com/app/630610)</p>|<p align="center">[Spacewar](https://store.steampowered.com/app/480)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
+|<p align="center">[Soviet Jump Game](https://store.steampowered.com/app/1072710)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Need For Drink](https://store.steampowered.com/app/613730)</p>|
 </details>
