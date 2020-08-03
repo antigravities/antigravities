@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/613730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/613730)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/726590/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/726590)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1072710/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1072710)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1238080/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1238080)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
 |-|-|-|
-|<p align="center">[Need For Drink](https://store.steampowered.com/app/613730)</p>|<p align="center">[Spacewar](https://store.steampowered.com/app/480)</p>|<p align="center">[NBA 2K Playgrounds 2](https://store.steampowered.com/app/726590)</p>|
+|<p align="center">[Soviet Jump Game](https://store.steampowered.com/app/1072710)</p>|<p align="center">[Burnout™ Paradise Remastered](https://store.steampowered.com/app/1238080)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
 </details>
