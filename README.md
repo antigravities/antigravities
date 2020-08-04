@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1072710/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1072710)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1238080/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1238080)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1045280/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1045280)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1045280/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1045280)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/331670/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/331670)|
 |-|-|-|
-|<p align="center">[Soviet Jump Game](https://store.steampowered.com/app/1072710)</p>|<p align="center">[Burnout™ Paradise Remastered](https://store.steampowered.com/app/1238080)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
+|<p align="center">[eCrossminton](https://store.steampowered.com/app/1045280)</p>|<p align="center">[eCrossminton](https://store.steampowered.com/app/1045280)</p>|<p align="center">[The Jackbox Party Pack](https://store.steampowered.com/app/331670)</p>|
 </details>
