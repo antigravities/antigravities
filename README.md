@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/651150/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/651150)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222670/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222670)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1089350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1089350)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/651150/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/651150)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222670/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222670)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222670/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222670)|
 |-|-|-|
-|<p align="center">[Quantum League](https://store.steampowered.com/app/651150)</p>|<p align="center">[The Sims™ 4](https://store.steampowered.com/app/1222670)</p>|<p align="center">[NBA 2K20](https://store.steampowered.com/app/1089350)</p>|
+|<p align="center">[Quantum League](https://store.steampowered.com/app/651150)</p>|<p align="center">[The Sims™ 4](https://store.steampowered.com/app/1222670)</p>|<p align="center">[The Sims™ 4](https://store.steampowered.com/app/1222670)</p>|
 </details>
