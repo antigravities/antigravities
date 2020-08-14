@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1097150)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/651150/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/651150)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/329890/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/329890)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1089000/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1089000)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|
 |-|-|-|
-|<p align="center">[Fall Guys](https://store.steampowered.com/app/1097150)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Quantum League](https://store.steampowered.com/app/651150)</p>|
+|<p align="center">[MyRPG Master](https://store.steampowered.com/app/329890)</p>|<p align="center">[Wing Pro 7](https://store.steampowered.com/app/1089000)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|
 </details>
