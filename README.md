@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/329890/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/329890)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222670/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222670)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/329890/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/329890)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/934780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/934780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/984800/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/984800)|
 |-|-|-|
-|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|<p align="center">[MyRPG Master](https://store.steampowered.com/app/329890)</p>|<p align="center">[The Sims™ 4](https://store.steampowered.com/app/1222670)</p>|
+|<p align="center">[MyRPG Master](https://store.steampowered.com/app/329890)</p>|<p align="center">[American Fugitive](https://store.steampowered.com/app/934780)</p>|<p align="center">[Automachef](https://store.steampowered.com/app/984800)</p>|
 </details>
