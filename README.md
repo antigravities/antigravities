@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/539300/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/539300)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/757600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/757600)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222700/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222700)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
 |-|-|-|
-|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Solitaire](https://store.steampowered.com/app/539300)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
+|<p align="center">[Hotel Transylvania 3: Monsters Overboard](https://store.steampowered.com/app/757600)</p>|<p align="center">[A Way Out](https://store.steampowered.com/app/1222700)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
 </details>
