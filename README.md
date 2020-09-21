@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1190460/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1190460)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/656190/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/656190)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1190460/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1190460)|
 |-|-|-|
-|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|<p align="center">[DEATH STRANDING](https://store.steampowered.com/app/1190460)</p>|<p align="center">[THE HOUCHI PLAY -THE 放置プレイ-](https://store.steampowered.com/app/656190)</p>|
+|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[DEATH STRANDING](https://store.steampowered.com/app/1190460)</p>|
 </details>
