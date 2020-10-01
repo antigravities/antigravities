@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/912170/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/912170)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/333980/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/333980)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|
 |-|-|-|
-|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|<p align="center">[Groupy](https://store.steampowered.com/app/912170)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
+|<p align="center">[AKIBA'S TRIP: Undead & Undressed](https://store.steampowered.com/app/333980)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|
 </details>
