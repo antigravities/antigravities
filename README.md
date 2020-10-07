@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/945360)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/762920/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/762920)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/330070/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/330070)|
 |-|-|-|
-|<p align="center">[Among Us](https://store.steampowered.com/app/945360)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|
+|<p align="center">[Glory of the Self-Styled Diehard girl](https://store.steampowered.com/app/762920)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|<p align="center">[VEGAS Movie Studio 13 Platinum - Steam Powered](https://store.steampowered.com/app/330070)</p>|
 </details>
