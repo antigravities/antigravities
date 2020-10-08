@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/762920/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/762920)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/330070/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/330070)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/330070/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/330070)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/252950)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1089000/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1089000)|
 |-|-|-|
-|<p align="center">[Glory of the Self-Styled Diehard girl](https://store.steampowered.com/app/762920)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|<p align="center">[VEGAS Movie Studio 13 Platinum - Steam Powered](https://store.steampowered.com/app/330070)</p>|
+|<p align="center">[VEGAS Movie Studio 13 Platinum - Steam Powered](https://store.steampowered.com/app/330070)</p>|<p align="center">[Rocket League](https://store.steampowered.com/app/252950)</p>|<p align="center">[Wing Pro 7](https://store.steampowered.com/app/1089000)</p>|
 </details>
