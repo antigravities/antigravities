@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/330070/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/330070)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/252950)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1089000/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1089000)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|
 |-|-|-|
-|<p align="center">[VEGAS Movie Studio 13 Platinum - Steam Powered](https://store.steampowered.com/app/330070)</p>|<p align="center">[Rocket League](https://store.steampowered.com/app/252950)</p>|<p align="center">[Wing Pro 7](https://store.steampowered.com/app/1089000)</p>|
+|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|
 </details>
