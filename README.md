@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/333980/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/333980)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/6210/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/6210)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/837470/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/837470)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/252950)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
 |-|-|-|
-|<p align="center">[AKIBA'S TRIP: Undead & Undressed](https://store.steampowered.com/app/333980)</p>|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[Vegas: Make It Big](https://store.steampowered.com/app/6210)</p>|
+|<p align="center">[Untitled Goose Game](https://store.steampowered.com/app/837470)</p>|<p align="center">[Rocket League](https://store.steampowered.com/app/252950)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
 </details>
