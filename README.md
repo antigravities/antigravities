@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/837470/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/837470)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/252950)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1089350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1089350)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/945360)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
 |-|-|-|
-|<p align="center">[Untitled Goose Game](https://store.steampowered.com/app/837470)</p>|<p align="center">[Rocket League](https://store.steampowered.com/app/252950)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|
+|<p align="center">[NBA 2K20](https://store.steampowered.com/app/1089350)</p>|<p align="center">[Among Us](https://store.steampowered.com/app/945360)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
 </details>
