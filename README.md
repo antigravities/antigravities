@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/239350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/239350)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/239350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/239350)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/239350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/239350)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|
 |-|-|-|
-|<p align="center">[Spelunky](https://store.steampowered.com/app/239350)</p>|<p align="center">[Spelunky](https://store.steampowered.com/app/239350)</p>|<p align="center">[Spelunky](https://store.steampowered.com/app/239350)</p>|
+|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|
 </details>
