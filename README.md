@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/598980/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/598980)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/526870/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/526870)|
 |-|-|-|
-|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|
+|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[The Coin Game](https://store.steampowered.com/app/598980)</p>|<p align="center">[Satisfactory](https://store.steampowered.com/app/526870)</p>|
 </details>
