@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/725480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/725480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/598980/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/598980)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/526870/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/526870)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/707030/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/707030)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/598980/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/598980)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/707030/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/707030)|
 |-|-|-|
-|<p align="center">[Slap City](https://store.steampowered.com/app/725480)</p>|<p align="center">[The Coin Game](https://store.steampowered.com/app/598980)</p>|<p align="center">[Satisfactory](https://store.steampowered.com/app/526870)</p>|
+|<p align="center">[POSTAL 4: No Regerts](https://store.steampowered.com/app/707030)</p>|<p align="center">[The Coin Game](https://store.steampowered.com/app/598980)</p>|<p align="center">[POSTAL 4: No Regerts](https://store.steampowered.com/app/707030)</p>|
 </details>
