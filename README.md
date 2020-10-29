@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/498330/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/498330)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/105600)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/405500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/405500)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/578650/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/578650)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1108390/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1108390)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/458500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/458500)|
 |-|-|-|
-|<p align="center">[Cats are Liquid - A Light in the Shadows](https://store.steampowered.com/app/498330)</p>|<p align="center">[Terraria](https://store.steampowered.com/app/105600)</p>|<p align="center">[Dangerous Golf](https://store.steampowered.com/app/405500)</p>|
+|<p align="center">[The Outer Worlds](https://store.steampowered.com/app/578650)</p>|<p align="center">[Cartonfall: Fortress](https://store.steampowered.com/app/1108390)</p>|<p align="center">[Babylon 2055 Pinball](https://store.steampowered.com/app/458500)</p>|
 </details>
