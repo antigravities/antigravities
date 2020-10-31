@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/316030/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/316030)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/105600)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/736260)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/458500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/458500)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/458500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/458500)|
 |-|-|-|
-|<p align="center">[Alice in Wonderland](https://store.steampowered.com/app/316030)</p>|<p align="center">[Terraria](https://store.steampowered.com/app/105600)</p>|<p align="center">[Baba Is You](https://store.steampowered.com/app/736260)</p>|
+|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|<p align="center">[Babylon 2055 Pinball](https://store.steampowered.com/app/458500)</p>|<p align="center">[Babylon 2055 Pinball](https://store.steampowered.com/app/458500)</p>|
 </details>
