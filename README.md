@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/458500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/458500)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/458500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/458500)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/220200/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/220200)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1416730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1416730)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/405500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/405500)|
 |-|-|-|
-|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|<p align="center">[Babylon 2055 Pinball](https://store.steampowered.com/app/458500)</p>|<p align="center">[Babylon 2055 Pinball](https://store.steampowered.com/app/458500)</p>|
+|<p align="center">[Kerbal Space Program](https://store.steampowered.com/app/220200)</p>|<p align="center">[Ball at Work](https://store.steampowered.com/app/1416730)</p>|<p align="center">[Dangerous Golf](https://store.steampowered.com/app/405500)</p>|
 </details>
