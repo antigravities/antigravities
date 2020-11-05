@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1118310/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1118310)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/707030/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/707030)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1108390/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1108390)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/578650/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/578650)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1073410/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1073410)|
 |-|-|-|
-|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[RetroArch](https://store.steampowered.com/app/1118310)</p>|<p align="center">[POSTAL 4: No Regerts](https://store.steampowered.com/app/707030)</p>|
+|<p align="center">[Cartonfall: Fortress](https://store.steampowered.com/app/1108390)</p>|<p align="center">[The Outer Worlds](https://store.steampowered.com/app/578650)</p>|<p align="center">[Boxing Champs](https://store.steampowered.com/app/1073410)</p>|
 </details>
