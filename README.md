@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/574720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/574720)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/770630/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/770630)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/573410)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/848350/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/848350)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/578720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/578720)|
 |-|-|-|
-|<p align="center">[Little Big Workshop](https://store.steampowered.com/app/574720)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Boo! Greedy Kid](https://store.steampowered.com/app/770630)</p>|
+|<p align="center">[AI War 2](https://store.steampowered.com/app/573410)</p>|<p align="center">[Katamari Damacy REROLL](https://store.steampowered.com/app/848350)</p>|<p align="center">[A Mortician's Tale](https://store.steampowered.com/app/578720)</p>|
 </details>
