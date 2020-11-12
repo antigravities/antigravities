@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/573410)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/447700/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/447700)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/17390/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/17390)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/403120/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/403120)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|
 |-|-|-|
-|<p align="center">[AI War 2](https://store.steampowered.com/app/573410)</p>|<p align="center">[Crystal Crisis](https://store.steampowered.com/app/447700)</p>|<p align="center">[Spore](https://store.steampowered.com/app/17390)</p>|
+|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|<p align="center">[THE GAME OF LIFE ](https://store.steampowered.com/app/403120)</p>|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|
 </details>
