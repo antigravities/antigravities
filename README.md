@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/403120/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/403120)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/517780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/517780)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718850/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718850)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/578720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/578720)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/447700/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/447700)|
 |-|-|-|
-|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|<p align="center">[THE GAME OF LIFE ](https://store.steampowered.com/app/403120)</p>|<p align="center">[Ogre](https://store.steampowered.com/app/517780)</p>|
+|<p align="center">[Age of Wonders: Planetfall](https://store.steampowered.com/app/718850)</p>|<p align="center">[A Mortician's Tale](https://store.steampowered.com/app/578720)</p>|<p align="center">[Crystal Crisis](https://store.steampowered.com/app/447700)</p>|
 </details>
