@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1222700/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1222700)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1145360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1145360)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/459910/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/459910)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/573410)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/459910/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/459910)|
 |-|-|-|
-|<p align="center">[A Way Out](https://store.steampowered.com/app/1222700)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Hades](https://store.steampowered.com/app/1145360)</p>|
+|<p align="center">[30 IMPOSSIBLE LEVELS](https://store.steampowered.com/app/459910)</p>|<p align="center">[AI War 2](https://store.steampowered.com/app/573410)</p>|<p align="center">[30 IMPOSSIBLE LEVELS](https://store.steampowered.com/app/459910)</p>|
 </details>
