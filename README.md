@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/310490/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/310490)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/613100/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/613100)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/959520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/959520)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/70/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/70)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/518060/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/518060)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3540/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3540)|
 |-|-|-|
-|<p align="center">[Crookz - The Big Heist](https://store.steampowered.com/app/310490)</p>|<p align="center">[House Flipper](https://store.steampowered.com/app/613100)</p>|<p align="center">[Fantasy Blacksmith](https://store.steampowered.com/app/959520)</p>|
+|<p align="center">[Half-Life](https://store.steampowered.com/app/70)</p>|<p align="center">[Chess Ultra](https://store.steampowered.com/app/518060)</p>|<p align="center">[Peggle Nights](https://store.steampowered.com/app/3540)</p>|
 </details>
