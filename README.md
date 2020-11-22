@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/70/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/70)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/518060/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/518060)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3540/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3540)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718850/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718850)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/427520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/427520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/574720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/574720)|
 |-|-|-|
-|<p align="center">[Half-Life](https://store.steampowered.com/app/70)</p>|<p align="center">[Chess Ultra](https://store.steampowered.com/app/518060)</p>|<p align="center">[Peggle Nights](https://store.steampowered.com/app/3540)</p>|
+|<p align="center">[Age of Wonders: Planetfall](https://store.steampowered.com/app/718850)</p>|<p align="center">[Factorio](https://store.steampowered.com/app/427520)</p>|<p align="center">[Little Big Workshop](https://store.steampowered.com/app/574720)</p>|
 </details>
