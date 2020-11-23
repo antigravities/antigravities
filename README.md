@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718850/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718850)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/427520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/427520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/574720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/574720)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/730)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/255710/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/255710)|
 |-|-|-|
-|<p align="center">[Age of Wonders: Planetfall](https://store.steampowered.com/app/718850)</p>|<p align="center">[Factorio](https://store.steampowered.com/app/427520)</p>|<p align="center">[Little Big Workshop](https://store.steampowered.com/app/574720)</p>|
+|<p align="center">[Counter-Strike: Global Offensive](https://store.steampowered.com/app/730)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Cities: Skylines](https://store.steampowered.com/app/255710)</p>|
 </details>
