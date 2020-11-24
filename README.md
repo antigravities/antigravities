@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/730)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/255710/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/255710)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/234900/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/234900)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/253230/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/253230)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1100600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1100600)|
 |-|-|-|
-|<p align="center">[Counter-Strike: Global Offensive](https://store.steampowered.com/app/730)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[Cities: Skylines](https://store.steampowered.com/app/255710)</p>|
+|<p align="center">[Anodyne](https://store.steampowered.com/app/234900)</p>|<p align="center">[A Hat in Time](https://store.steampowered.com/app/253230)</p>|<p align="center">[Football Manager 2020](https://store.steampowered.com/app/1100600)</p>|
 </details>
