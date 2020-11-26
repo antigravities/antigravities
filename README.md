@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/325180/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/325180)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/24780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/24780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1148450/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1148450)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/24780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/24780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/105600)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/736260)|
 |-|-|-|
-|<p align="center">[AppGameKit Classic](https://store.steampowered.com/app/325180)</p>|<p align="center">[SimCity 4 Deluxe](https://store.steampowered.com/app/24780)</p>|<p align="center">[Detective Jackie - Mystic Case](https://store.steampowered.com/app/1148450)</p>|
+|<p align="center">[SimCity 4 Deluxe](https://store.steampowered.com/app/24780)</p>|<p align="center">[Terraria](https://store.steampowered.com/app/105600)</p>|<p align="center">[Baba Is You](https://store.steampowered.com/app/736260)</p>|
 </details>
