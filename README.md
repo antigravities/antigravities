@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/24780/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/24780)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/105600)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/736260)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/325180/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/325180)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/350810/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/350810)|
 |-|-|-|
-|<p align="center">[SimCity 4 Deluxe](https://store.steampowered.com/app/24780)</p>|<p align="center">[Terraria](https://store.steampowered.com/app/105600)</p>|<p align="center">[Baba Is You](https://store.steampowered.com/app/736260)</p>|
+|<p align="center">[AppGameKit Classic](https://store.steampowered.com/app/325180)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Pixel Puzzles 2: Anime](https://store.steampowered.com/app/350810)</p>|
 </details>
