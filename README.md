@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/325180/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/325180)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/350810/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/350810)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/283940/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/283940)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/964040/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/964040)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/340/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/340)|
 |-|-|-|
-|<p align="center">[AppGameKit Classic](https://store.steampowered.com/app/325180)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Pixel Puzzles 2: Anime](https://store.steampowered.com/app/350810)</p>|
+|<p align="center">[Freddi Fish and the Case of the Missing Kelp Seeds](https://store.steampowered.com/app/283940)</p>|<p align="center">[Snood](https://store.steampowered.com/app/964040)</p>|<p align="center">[Half-Life 2: Lost Coast](https://store.steampowered.com/app/340)</p>|
 </details>
