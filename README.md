@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/283940/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/283940)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/964040/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/964040)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/340/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/340)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358260/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358260)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/206440/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/206440)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/250900/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/250900)|
 |-|-|-|
-|<p align="center">[Freddi Fish and the Case of the Missing Kelp Seeds](https://store.steampowered.com/app/283940)</p>|<p align="center">[Snood](https://store.steampowered.com/app/964040)</p>|<p align="center">[Half-Life 2: Lost Coast](https://store.steampowered.com/app/340)</p>|
+|<p align="center">[Crystal Caves](https://store.steampowered.com/app/358260)</p>|<p align="center">[To the Moon](https://store.steampowered.com/app/206440)</p>|<p align="center">[The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900)</p>|
 </details>
