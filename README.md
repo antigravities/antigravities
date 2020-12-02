@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/283940/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/283940)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3590/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3590)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/362930)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/220/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/220)|
 |-|-|-|
-|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Freddi Fish and the Case of the Missing Kelp Seeds](https://store.steampowered.com/app/283940)</p>|<p align="center">[Plants vs. Zombies: Game of the Year](https://store.steampowered.com/app/3590)</p>|
+|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Garfield Kart](https://store.steampowered.com/app/362930)</p>|<p align="center">[Half-Life 2](https://store.steampowered.com/app/220)</p>|
 </details>
