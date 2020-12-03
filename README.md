@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/362930)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/220/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/220)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358130)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/371500/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/371500)|
 |-|-|-|
-|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Garfield Kart](https://store.steampowered.com/app/362930)</p>|<p align="center">[Half-Life 2](https://store.steampowered.com/app/220)</p>|
+|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Curious Expedition](https://store.steampowered.com/app/358130)</p>|<p align="center">[Grey Cubes](https://store.steampowered.com/app/371500)</p>|
 </details>
