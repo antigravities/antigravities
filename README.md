@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/636480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/636480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/370360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/370360)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/39320/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/39320)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/220/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/220)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
 |-|-|-|
-|<p align="center">[Ravenfield](https://store.steampowered.com/app/636480)</p>|<p align="center">[TIS-100](https://store.steampowered.com/app/370360)</p>|<p align="center">[EtchASketch](https://store.steampowered.com/app/39320)</p>|
+|<p align="center">[Peggle Deluxe](https://store.steampowered.com/app/3480)</p>|<p align="center">[Half-Life 2](https://store.steampowered.com/app/220)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
 </details>
