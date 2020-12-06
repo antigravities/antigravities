@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3480/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3480)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/220/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/220)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/727570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/206440/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/206440)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/976730/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/976730)|
 |-|-|-|
-|<p align="center">[Peggle Deluxe](https://store.steampowered.com/app/3480)</p>|<p align="center">[Half-Life 2](https://store.steampowered.com/app/220)</p>|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|
+|<p align="center">[After the Collapse](https://store.steampowered.com/app/727570)</p>|<p align="center">[To the Moon](https://store.steampowered.com/app/206440)</p>|<p align="center">[Halo: The Master Chief Collection](https://store.steampowered.com/app/976730)</p>|
 </details>
