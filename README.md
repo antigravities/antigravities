@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/290340/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/290340)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1077530/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1077530)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/370360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/370360)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/238050/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/238050)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/574720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/574720)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3540/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3540)|
 |-|-|-|
-|<p align="center">[Armello](https://store.steampowered.com/app/290340)</p>|<p align="center">[SUPER BUILD](https://store.steampowered.com/app/1077530)</p>|<p align="center">[TIS-100](https://store.steampowered.com/app/370360)</p>|
+|<p align="center">[The Apogee Throwback Pack](https://store.steampowered.com/app/238050)</p>|<p align="center">[Little Big Workshop](https://store.steampowered.com/app/574720)</p>|<p align="center">[Peggle Nights](https://store.steampowered.com/app/3540)</p>|
 </details>
