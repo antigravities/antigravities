@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/238050/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/238050)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/574720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/574720)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/3540/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/3540)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/239820/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/239820)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1086640/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1086640)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/785790/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/785790)|
 |-|-|-|
-|<p align="center">[The Apogee Throwback Pack](https://store.steampowered.com/app/238050)</p>|<p align="center">[Little Big Workshop](https://store.steampowered.com/app/574720)</p>|<p align="center">[Peggle Nights](https://store.steampowered.com/app/3540)</p>|
+|<p align="center">[Game Dev Tycoon](https://store.steampowered.com/app/239820)</p>|<p align="center">[Dude Simulator 3](https://store.steampowered.com/app/1086640)</p>|<p align="center">[WHAT THE GOLF?](https://store.steampowered.com/app/785790)</p>|
 </details>
