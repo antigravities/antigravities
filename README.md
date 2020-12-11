@@ -47,7 +47,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718650/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718650)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/386620/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/386620)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358130)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358130)|
 |-|-|-|
-|<p align="center">[Driftland: The Magic Revival](https://store.steampowered.com/app/718650)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Cook, Serve, Delicious! 2!!](https://store.steampowered.com/app/386620)</p>|
+|<p align="center">[Curious Expedition](https://store.steampowered.com/app/358130)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Curious Expedition](https://store.steampowered.com/app/358130)</p>|
 </details>
