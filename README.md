@@ -54,7 +54,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/785790/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/785790)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/364840/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/364840)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/537340/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/537340)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/39320/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/39320)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718650/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718650)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/922400/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/922400)|
 |-|-|-|
-|<p align="center">[WHAT THE GOLF?](https://store.steampowered.com/app/785790)</p>|<p align="center">[N2O](https://store.steampowered.com/app/364840)</p>|<p align="center">[Guts and Glory](https://store.steampowered.com/app/537340)</p>|
+|<p align="center">[EtchASketch](https://store.steampowered.com/app/39320)</p>|<p align="center">[Driftland: The Magic Revival](https://store.steampowered.com/app/718650)</p>|<p align="center">[DX-Ball 2: 20th Anniversary Edition](https://store.steampowered.com/app/922400)</p>|
 </details>
