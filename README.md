@@ -54,7 +54,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/39320/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/39320)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/718650/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/718650)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/922400/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/922400)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/441870/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/441870)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358130)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1307550/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1307550)|
 |-|-|-|
-|<p align="center">[EtchASketch](https://store.steampowered.com/app/39320)</p>|<p align="center">[Driftland: The Magic Revival](https://store.steampowered.com/app/718650)</p>|<p align="center">[DX-Ball 2: 20th Anniversary Edition](https://store.steampowered.com/app/922400)</p>|
+|<p align="center">[OutDrive](https://store.steampowered.com/app/441870)</p>|<p align="center">[Curious Expedition](https://store.steampowered.com/app/358130)</p>|<p align="center">[Craftopia](https://store.steampowered.com/app/1307550)</p>|
 </details>
