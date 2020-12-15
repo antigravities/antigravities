@@ -54,7 +54,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/441870/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/441870)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/358130)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1307550/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1307550)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/766370/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/766370)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/749860/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/749860)|
 |-|-|-|
-|<p align="center">[OutDrive](https://store.steampowered.com/app/441870)</p>|<p align="center">[Curious Expedition](https://store.steampowered.com/app/358130)</p>|<p align="center">[Craftopia](https://store.steampowered.com/app/1307550)</p>|
+|<p align="center">[Dying Light: Bad Blood](https://store.steampowered.com/app/766370)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Super Sportmatchen](https://store.steampowered.com/app/749860)</p>|
 </details>
