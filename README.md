@@ -54,7 +54,7 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
   <b>Recently played</b>
 </p>
 
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/766370/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/766370)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/749860/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/749860)|
+|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/922400/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/922400)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/8240/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/8240)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/766370/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/766370)|
 |-|-|-|
-|<p align="center">[Dying Light: Bad Blood](https://store.steampowered.com/app/766370)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Super Sportmatchen](https://store.steampowered.com/app/749860)</p>|
+|<p align="center">[DX-Ball 2: 20th Anniversary Edition](https://store.steampowered.com/app/922400)</p>|<p align="center">[Sam & Max 105: Reality 2.0](https://store.steampowered.com/app/8240)</p>|<p align="center">[Dying Light: Bad Blood](https://store.steampowered.com/app/766370)</p>|
 </details>
