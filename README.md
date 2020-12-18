@@ -47,10 +47,3 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
 [ Delphi Pascal, C#/.NET ]
 
 </details>
-
-<details>
-<summary>Steam</summary>
-
-<p align="center">
-  <b>Recently played</b>
-</p>
