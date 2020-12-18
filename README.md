@@ -6,6 +6,7 @@ I am available for hire! See my portfolio below. If you'd like to get in touch, 
 
 <details>
 <summary>Portfolio / Skills</summary>
+
 ### Skills
 
 &#9733;&#9733;&#9733;&#9733;&#9733; C#, PHP, JavaScript, Node.js, CSS/HTML, Linux system administration, REST
@@ -53,8 +54,3 @@ Unending Galaxy is a 4X space opera real-time strategy game. At Anarkis Gaming, 
 <p align="center">
   <b>Recently played</b>
 </p>
-
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1307550/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1307550)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/434570/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/434570)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/966720/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/966720)|
-|-|-|-|
-|<p align="center">[Craftopia](https://store.steampowered.com/app/1307550)</p>|<p align="center">[Blood and Bacon](https://store.steampowered.com/app/434570)</p>|<p align="center">[Pumped BMX Pro](https://store.steampowered.com/app/966720)</p>|
-</details>
