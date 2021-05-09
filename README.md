@@ -2,22 +2,10 @@ Hi, I'm Alexandra! I live in the Philadelphia/NYC area and make video games (at 
 
 I am a programming polyglot; I love learning and working with lots of different languages, runtimes, and tools. I particularly like working with C#, Go, JavaScript (+ Node.js), and HTML/CSS; and I'd love to work more with Swift and Docker.
 
-I am available for hire! See my portfolio below. If you'd like to get in touch, please email im at alexandra dot moe.
+If you'd like to get in touch, please email im at alexandra dot moe.
 
 <details>
-<summary>Portfolio / Skills</summary>
-
-### Skills
-
-&#9733;&#9733;&#9733;&#9733;&#9733; C#, PHP, JavaScript, Node.js, CSS/HTML, Linux system administration, REST
-
-&#9733;&#9733;&#9733;&#9733;&#9734; Go, Java, Lua, Steamworks, (My)SQL
-
-&#9733;&#9733;&#9733;&#9734;&#9734; Python, WordPress
-
-&#9733;&#9733;&#9734;&#9734;&#9734; Vue, Delphi/Free Pascal, MonoGame
-
-&#9733;&#9734;&#9734;&#9734;&#9734; C, React, MongoDB, DynamoDB, Docker, Swift, Objective-C, JSP, Windows system administration
+<summary>Portfolio</summary>
 
 ### Portfolio
 
